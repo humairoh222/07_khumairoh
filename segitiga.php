@@ -9,4 +9,3 @@ echo "<b>Rumus:</b> L = 1/2 × a × t <br>";
 echo "<b>Soal:</b> Hitung luas segitiga dengan alas $alas cm dan tinggi $tinggi cm.<br>";
 echo "<b>Jawaban:</b> 1/2 × $alas × $tinggi = $luas cm²";
 ?>
-4
